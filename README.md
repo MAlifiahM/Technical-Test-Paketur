@@ -47,8 +47,8 @@ Follow these steps to set up the project on your local machine:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/<repository-name>.git
-cd <repository-name>
+git clone https://github.com/MAlifiahM/Technical-Test-Paketur.git
+cd Technical-Test-Paketur
 ```
 
 ### 2. Install Composer Dependencies
@@ -123,7 +123,7 @@ You can find the export file here:
 - Path: `/docs/api-collection.json`
 
 If you're hosting the Postman collection on a public URL (like Postman Cloud), you could also add a link:
-[View API Documentation on Postman](<insert-shared-link-here>)
+[View API Documentation on Postman](https://shorturl.at/7p8FF)
 
 ---
 
